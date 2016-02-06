@@ -1,0 +1,10 @@
+#navi {
+
+}
+#navi ul {
+	list-style: none;
+}
+
+#navi ul li {
+	display: inline;
+}
